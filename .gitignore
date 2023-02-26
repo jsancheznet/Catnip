@@ -1,0 +1,11 @@
+# Compiled stuff
+*.exe
+*.obj
+*.ilk
+*.pdb
+
+# Compressed packages
+*.zip
+*.tar
+*.rar
+*.7z
