@@ -9,3 +9,7 @@
 *.tar
 *.rar
 *.7z
+
+# Visual studio stuff
+**build/.vs/
+*.sln
